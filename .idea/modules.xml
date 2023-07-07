@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KingMggLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/KingMggLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/KingMggLibrary.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/KingMggLibrary.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/KingMggLibrary.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/KingMggLibrary.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/KingMggLibrary.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/KingMggLibrary.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/KingMggLibrary.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/KingMggLibrary.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mgglibrary/KingMggLibrary.mgglibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/mgglibrary/KingMggLibrary.mgglibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mgglibrary/KingMggLibrary.mgglibrary.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mgglibrary/KingMggLibrary.mgglibrary.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mgglibrary/KingMggLibrary.mgglibrary.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mgglibrary/KingMggLibrary.mgglibrary.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mgglibrary/KingMggLibrary.mgglibrary.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mgglibrary/KingMggLibrary.mgglibrary.unitTest.iml" />
+    </modules>
+  </component>
+</project>
